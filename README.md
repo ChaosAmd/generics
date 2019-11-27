@@ -1,2 +1,2 @@
 # generics
-my codes on stepanov book
+my codes on stepanov book, in haskell!
